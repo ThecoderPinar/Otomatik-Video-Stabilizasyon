@@ -1,0 +1,7 @@
+streamlit~=1.36.0
+opencv-python~=4.9.0.80
+pandas~=2.2.2
+plotly~=5.22.0
+psutil~=5.9.8
+SQLAlchemy~=1.4.25
+numpy~=1.26.4
